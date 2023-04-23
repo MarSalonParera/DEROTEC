@@ -1,0 +1,13 @@
+* {
+    box-sizing: border-box;
+}
+.cabecera {
+    display: flex;
+    background-image: url(img/banner/derotec.png);
+    background-size:cover;
+    height:100vh;
+    width: 100%; 
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}                                                                                                                                              
