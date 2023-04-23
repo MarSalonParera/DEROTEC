@@ -10,4 +10,12 @@
     align-items: center;
     justify-content: center;
     flex-direction: column;
-}                                                                                                                                              
+
+}         
+
+.parrafo1 {
+    text-align: center;
+    font-size: 80px;
+    margin: 0%;
+    padding: 10%;
+}
